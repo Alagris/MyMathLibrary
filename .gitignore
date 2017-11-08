@@ -1,0 +1,10 @@
+
+*.pbxproj
+
+*.xcworkspacedata
+
+*.xcuserstate
+
+*.xcscheme
+
+MyMathLibrary.xcodeproj/xcuserdata/alagris.xcuserdatad/xcschemes/xcschememanagement.plist
